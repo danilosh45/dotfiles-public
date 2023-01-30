@@ -55,3 +55,6 @@
 	process = git-lfs filter-process
 [ghq]
   root = ~/.ghq
+[user]
+	name = Danilo
+	email = danilosh45@gmail.com

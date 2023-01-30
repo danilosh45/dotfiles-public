@@ -15,6 +15,7 @@ alias la "ls -A"
 alias ll "ls -l"
 alias lla "ll -A"
 alias g git
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 command -qv nvim && alias vim nvim
 
 set -gx EDITOR nvim
